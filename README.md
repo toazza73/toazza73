@@ -1,4 +1,7 @@
-## Bem-vindos ao meu perfil 👋
+<center><h2>Bem-vindos ao meu perfil 👋</h2></center>
+
+![xx](https://s2.glbimg.com/rsxOyujjm17bnXKKkZiz7Gj0F3I=/e.glbimg.com/og/ed/f/original/2021/11/30/giphy.gif)
+
 
 <!--
 **toazza73/toazza73** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
